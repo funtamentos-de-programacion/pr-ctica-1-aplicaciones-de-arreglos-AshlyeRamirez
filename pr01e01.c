@@ -17,5 +17,6 @@ int main(){
     for (int i = 0; i < 5; i++) {
         printf("arr_double[%d] está en la dirección: %p\n", i, &arr_double[i]);
     }
-    return0
+    return 0;
 }
+
